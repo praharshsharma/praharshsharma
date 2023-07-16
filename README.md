@@ -1,5 +1,5 @@
 <div align="center" width=100%>
-<img src="topbanner.png" width="100%" style="height:40vh;">
+<img src="topbanner.png" width="100%" style="height:30vh;">
 </div>
 <h1 align="center">Hi 👋, I'm PRAHARSH SHARMA</h1>
 <h3 align="center">FULLSTACK DEVELOPER</h3>
