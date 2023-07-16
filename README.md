@@ -1,5 +1,5 @@
 <div align="center" width=100%>
-<img src="topbanner.png" width="100%" style="height:30vh;">
+<img src="topbanner.jpeg" width="100%" style="height:30vh;">
 </div>
 <h1 align="center">Hi 👋, I'm PRAHARSH SHARMA</h1>
 <h3 align="center">FULLSTACK DEVELOPER</h3>
@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praharshsharma&show_icons=true&locale=en" alt="praharshsharma" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praharshsharma&show_icons=true&locale=en&layout=compact" alt="praharshsharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praharshsharma&" alt="praharshsharma" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praharshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="praharshsharma" /> </p>
